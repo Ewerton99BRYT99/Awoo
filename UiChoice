@@ -1,0 +1,5 @@
+if UiLibrary == "Rayfield" then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Ewerton99BRYT99/Awoo/refs/heads/main/Rayfield.lua.txt"))()
+elseif UiLibrary == "Wind" then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Ewerton99BRYT99/Awoo/refs/heads/main/Wind.lua.txt"))()
+end
